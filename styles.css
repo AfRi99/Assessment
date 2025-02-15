@@ -471,11 +471,11 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color:#000743 ; /* Changed to dark blue */
-  background-image: url("images/footer-gradient.png"); /* Background image (ensure it has a blue shade) */
+  background-color:#000743 ; 
+  background-image: url("images/footer-gradient.png"); 
   background-repeat: no-repeat;
-  background-position: top bottom; /* Positions the bottom of the image at the top */
-  background-size: 100% auto; /* Makes sure the image fits horizontally and only the bottom part shows */
+  background-position: top bottom; 
+  background-size: 100% auto; 
   color: #ffffff;
   position: relative;
   overflow: hidden;
